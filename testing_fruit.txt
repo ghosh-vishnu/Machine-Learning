@@ -1,0 +1,7 @@
+width, height, Target
+5.3,21,Banana
+5.3,21,Banana
+4.8,141,Apple
+58,53,Apple
+640,263,Apple
+85,61,Apple
